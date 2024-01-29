@@ -10,5 +10,8 @@ This is a readme generator made using node.js and Javascript. This is the challe
 4. type node index.js 
 5. fill out prompts
 
+You may also view this video if you need help. 
+- https://app.screencastify.com/v3/watch/RLe5seHV8iUB9U2IBKmK
+
 ## Credits
 I'd like to thank my intructors Prateek and Tom for providing guidance during and after class with any questions I had on the challenge 
